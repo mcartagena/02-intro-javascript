@@ -11,3 +11,5 @@ const getHeroByOwner = (owner) => heroes.filter(heroe => heroe.owner === owner);
 console.log(getHeroByOwner("DC"));
 
 console.log(owners);
+
+export default getHeroById;
