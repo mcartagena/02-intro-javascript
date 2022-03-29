@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: src/bases/10-fetch.js
   checksum: 79afa27e70a9c80090c3c252aef71e27b120ccbd0f4a486b44e23f8bbd2fb0ff
+- filename: src/bases/11-async-await.js
+  checksum: 66d9997efb9d02d8b2ff1ad89da31191aebb7b3d2a3018a3b6122b898be58c04
