@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: src/bases/10-fetch.js
+  checksum: 79afa27e70a9c80090c3c252aef71e27b120ccbd0f4a486b44e23f8bbd2fb0ff
